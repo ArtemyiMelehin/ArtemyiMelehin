@@ -35,11 +35,8 @@
 * 🎓 Education:
  - Student of Volga State University of Technology at Software Engeneering dept.
  - Student of SkillFactory Data Science
- - 
 * 
-* 
-* 
-* 
+
 
 ### 💡 Core competencies 💡
 - Tools: 
@@ -53,7 +50,7 @@
 - Working at preprocessing and visualising data
 - Starting my first Project
 - 
-- 
+
 
 ### 🙌🏻 Contact me
 - [Telegram](@StrikerFire)
