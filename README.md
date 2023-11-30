@@ -4,6 +4,7 @@
 * 🎓 Образование:
   - Студент ПГТУ по специальности Программная Инженерия
   - Студент SkillFactory по специальности Data Science
+  - Варюсь в Data Science с 2023
 * 
 
 ### 📚 Проекты 📚
@@ -34,6 +35,7 @@
 * 🎓 Education:
  - Student of Volga State University of Technology at Software Engeneering dept.
  - Student of SkillFactory Data Science
+ - Started my professional journey in 2023
 * 
 
 
