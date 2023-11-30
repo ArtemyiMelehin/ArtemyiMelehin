@@ -24,7 +24,6 @@
 - 
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](@StrikerFire)
 - [VK](https://vk.com/rationality1379)
 
 ---
@@ -53,5 +52,4 @@
 
 
 ### 🙌🏻 Contact me
-- [Telegram](@StrikerFire)
 - [VK](https://vk.com/rationality1379)
