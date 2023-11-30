@@ -1,16 +1,62 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**ArtemyiMelehin/ArtemyiMelehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - Студент ПГТУ по специальности Программная Инженерия
+  - Студент SkillFactory по специальности Data Science
+* 
+*  
+* 
 
-Here are some ideas to get you started:
+### 📚 Проекты 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Кликни [сюда](https://github.com/ArtemyiMelehin/DataCleaningProject) чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: 
+- Skills: 
+    * SQL
+    * Data Analys
+    * Machine Learning
+
+### ⚡️ В настоящее время ⚡️
+- Прохожу очистку и визуализацию данных
+- Создаю свой первый проект
+- 
+- 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](@StrikerFire)
+- [VK](https://vk.com/rationality1379)
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+ - Student of Volga State University of Technology at Software Engeneering dept.
+ - Student of SkillFactory Data Science
+ - 
+* 
+* 
+* 
+* 
+
+### 💡 Core competencies 💡
+- Tools: 
+  - Skills:
+    * SQL
+    * Data Analys
+    * Machine learning
+
+
+### ⚡️ Currently ⚡️
+- Working at preprocessing and visualising data
+- Starting my first Project
+- 
+- 
+
+### 🙌🏻 Contact me
+- [Telegram](@StrikerFire)
+- [VK](https://vk.com/rationality1379)
