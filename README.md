@@ -2,7 +2,7 @@
 
 ### ✨ Обо мне за 30 секунд ✨ 
 * 🎓 Образование:
-  - Студент ПГТУ по специальности Программная Инженерия
+  - Студент ПГТУ по специальности Информационные технологии и системы
   - Студент SkillFactory по специальности Data Science
   - Варюсь в Data Science с 2023
 * 
@@ -19,8 +19,8 @@
     * Machine Learning
 
 ### ⚡️ В настоящее время ⚡️
-- Прохожу очистку и визуализацию данных
-- Создаю свой первый проект
+- Изучаю глюбокую математику для создания нейронных сетей
+- Работаю над проектом)
 - 
 - 
 
@@ -34,7 +34,7 @@
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
  - Student of Volga State University of Technology at Software Engeneering dept.
- - Student of SkillFactory Data Science
+ - Student of SkillFactory  on Data Science course
  - Started my professional journey in 2023
 * 
 
@@ -48,7 +48,7 @@
 
 
 ### ⚡️ Currently ⚡️
-- Working at preprocessing and visualising data
+- Studying deep math for AI  
 - Starting my first Project
 - 
 
