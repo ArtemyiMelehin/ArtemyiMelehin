@@ -3,8 +3,8 @@
 ### ✨ Обо мне за 30 секунд ✨ 
 * 🎓 Образование:
   - Студент ПГТУ по специальности Информационные технологии и системы
-  - Студент SkillFactory по специальности Data Science
-  - Варюсь в Data Science с 2023
+  - Студент SkillFactory по специальности Data Science PRO
+  - Варюсь в Data Science с 2022
 
 * 
 
@@ -16,13 +16,18 @@
 - Инструменты: 
 - Skills: 
     * SQL
-    * Data Analys
+    * Data Analysis
+    * EDA
     * Machine Learning
+    * Fine-tuning 
+    * LLM Prompting
+    * Docker
+      
 
 ### ⚡️ В настоящее время ⚡️
-- Изучаю глюбокую математику для создания нейронных сетей
-- Победил в хакатоне
-- Изучаю современные ML для оптимизации работы.
+- Стажируюсь в Моторике
+- Ищу работу
+- Создаю ИИ-ассистента для работы
 
 
 ### 🙌🏻 Свяжись со мной
@@ -35,8 +40,8 @@
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
  - Student of Volga State University of Technology at Software Engeneering dept.
- - Student of SkillFactory  on Data Science course
- - Started my professional journey in 2023
+ - Student of SkillFactory  on Data Science PRO course
+ - Started my professional journey in 2022
 * 
 
 
@@ -44,14 +49,17 @@
 - Tools: 
   - Skills:
     * SQL
-    * Data Analys
-    * Machine learning
-
+    * Data Analysis
+    * EDA
+    * Machine Learning
+    * Fine-tuning 
+    * LLM Prompting
+    * Docker
 
 ### ⚡️ Currently ⚡️
-- Studying deep math for AI  
-- Starting my first Project
-- 
+- Doing an internship at Motorica 
+- Looking for a job
+- making my personal AI-assistent for daily tasks
 
 
 ### 🙌🏻 Contact me
